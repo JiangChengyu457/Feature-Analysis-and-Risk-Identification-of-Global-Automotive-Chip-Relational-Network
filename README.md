@@ -4,8 +4,8 @@ The background of this thesis is the automotive chip crisis that broke out in 20
 
 Conclusion of the thesis: The market distribution of the chip industry conforms to the "Pareto law", with high market concentration and stable competitive landscape. The global division of labor in the industrial chain is significant, and the supply chain layout is concentrated and single, with a fragile "radiating" characteristic. The possibility of material flow or information exchange interruption is high. And based on this, countermeasures and suggestions were proposed.
 
-Attached file description:
-"cal_node.pdf" : the calculation results of node-level indexes.
-"cal_network.pdf" : the calculation results of network-level indexes.
-"analysis by synthesis method.pdf" : the fusion of indexes by the synthesis method.
+Attached file description:  
+"cal_node.pdf" : the calculation results of node-level indexes.  
+"cal_network.pdf" : the calculation results of network-level indexes.  
+"analysis by synthesis method.pdf" : the fusion of indexes by the synthesis method.  
 "build_graph + cal_index.py" : the code of building the network of every year, calculating indexes and conducting Louvain community discovery.
